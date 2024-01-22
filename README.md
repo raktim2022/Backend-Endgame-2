@@ -25,3 +25,6 @@ connect-flash
 - login
 - logout
 - is logged out check..
+
+## Multer Code Snippet:
+![Alt text](multer.png)
